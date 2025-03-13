@@ -39,6 +39,9 @@ Se extare la password
 ![image](https://github.com/user-attachments/assets/43ab3b6e-584f-4d4a-ac29-0793ff1e4627)
 ![image](https://github.com/user-attachments/assets/969ae8e1-6154-4f32-b16f-c498621cff77)
 
+![image](https://github.com/user-attachments/assets/dfd0783b-488c-4de8-8f15-f26a3658df0f)
+
+
 
 
 
