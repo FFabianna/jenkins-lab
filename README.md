@@ -1,5 +1,7 @@
 # Jenkins Lab
 
+In this lab, we set up a Jenkins pipeline to automate the build process of a Node.js application. Jenkins is a powerful automation tool widely used for continuous integration and deployment (CI/CD), allowing developers to streamline software delivery. The objective of this lab is to configure Jenkins in a containerized environment, integrate it with a Git repository, and execute a pipeline that automates the application build process.
+
 ## Ejecutar Docker Compose
 
 Para ejecutar Docker Compose, asegúrate de que tengas Docker Compose instalado en tu sistema. Luego, sigue estos pasos:
